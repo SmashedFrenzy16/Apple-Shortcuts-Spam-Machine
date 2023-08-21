@@ -3,6 +3,6 @@ Want to send your friend the same message multiple times? Well this tool can eas
 
 # How To Use
 
-Option 1: Use [this link](https://www.icloud.com/shortcuts/09157536b3c74d8abd9b30fb401d1efb) to add the shortcut directly to your iPhone.
+Option 1: Use [this link](https://www.icloud.com/shortcuts/9d80d94660cb4af1898d8d0b9ba4db88) to add the shortcut directly to your iPhone.
 
 Option 2: Use [this link](https://github.com/SmashedFrenzy16/Apple-Shortcuts-Spam-Machine/blob/main/Spam-Machine/IMG_1951.jpeg) to view an image of the shortcut code.
