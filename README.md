@@ -1,5 +1,7 @@
 # Apple Shortcuts Spam Machine
-Want to send your friend the same message multiple times? Well this tool can easily make you achieve exactly that! WARNING: DO NOT USE THIS PROJECT FOR MALICIOUS PURPOSES.
+Want to send your friend the same message multiple times? Well this tool can easily make you achieve exactly that! 
+
+WARNING: DO NOT USE THIS PROJECT FOR MALICIOUS PURPOSES. SMASHEDFRENZY16 IS NOT RESPONSIBLE FOR ANY DAMAGE RELATED TO MISUSE OF THIS PRODUCT.
 
 # How To Use
 
